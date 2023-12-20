@@ -1,0 +1,10 @@
+streamlit==1.28.2
+numpy
+pandas
+scikit-learn
+statsmodels
+matplotlib
+pickle
+pyswarm
+tqdm
+scipy
