@@ -4,7 +4,6 @@ pandas
 scikit-learn
 statsmodels
 matplotlib
-pickle
 pyswarm
 tqdm
 scipy
